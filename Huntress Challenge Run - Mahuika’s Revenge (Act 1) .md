@@ -22,8 +22,8 @@ Use crossbows to unleash your anger against rare and unique monsters that bullie
 ## Viability
 
 ### Act 1
-- Standard;
-- Hardcore;
+- [x] Standard;
+- [x] Hardcore;
 
 ### Difficulty
 
