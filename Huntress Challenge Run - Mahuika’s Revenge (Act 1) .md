@@ -69,6 +69,7 @@ After spending years living among the civilization that ordered the attack on Ma
 The more she witnessed how the soldiers were acting, the more her anger grew. With a fiery wish of revenge, she took that anger as fuel. Maybe she will learn how to fuse that anger into her spear someday.
 
 Then, a window of opportunity opened and she attempted an attack against the commander that wiped her village away. The attempt failed and she got captured by Count Geonor’s soldiers. 
+
 Now she faces the same destiny as many exiles do…
 
 ## Tips
