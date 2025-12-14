@@ -1,5 +1,8 @@
 # Huntress Challenge Run - Mahuika’s Revenge (Act 1)
 
+## POE Forum Link
+https://www.pathofexile.com/forum/view-thread/3886943
+
 ## Keywords 
 Bleed+Explosion+Fire+Spear+Ranged+Frenzy+Melee
 
