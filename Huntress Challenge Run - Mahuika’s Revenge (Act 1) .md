@@ -1,12 +1,27 @@
 # Huntress Challenge Run - Mahuika’s Revenge (Act 1)
 
+## Table of Content
+
+- [POE Forum Link](#poe-forum-link)
+- [Keywords](#keywords)
+- [Description](#description)
+- [Viability](#viability)
+- [Required Gems](#required-gems)
+- [Backstory](#backstory)
+- [Tips](#tips)
+
 ## POE Forum Link
+[^](#table-of-content)
+
 https://www.pathofexile.com/forum/view-thread/3886943
 
-## Keywords 
+## Keywords
+[^](#table-of-content)
+
 Bleed+Explosion+Fire+Spear+Ranged+Frenzy+Melee
 
 ## Description
+[^](#table-of-content)
 
 Forget league economy and Meta builds.
 
@@ -23,6 +38,7 @@ Learn to use Whirling Slash to take advantage of blinded foes and extra damage w
 Use crossbows to unleash your anger against rare and unique monsters that bullies you and your ability to die in Act 1. Do not forget to scream each time you unload your bullets.
 
 ## Viability
+[^](#table-of-content)
 
 ### Act 1
 - [x] Standard;
@@ -33,6 +49,7 @@ Use crossbows to unleash your anger against rare and unique monsters that bullie
 Easy to Medium.
 
 ## Required Equipments
+[^](#table-of-content)
 
 ### Weapon Slot 1
 
@@ -44,6 +61,7 @@ Easy to Medium.
 - Crossbow;
 
 ## Required Gems
+[^](#table-of-content)
 
 You can obtain these skills in any order you think it would be useful.
 
@@ -61,6 +79,7 @@ You can obtain these skills in any order you think it would be useful.
 - Herald of Blood;
 
 ## Backstory
+[^](#table-of-content)
 
 Mahuika was born in a hunter’s village, there she learned the basics of the hunter’s spear combat but an unfortunate event brought by the empire destroyed her entire village. In the process she escaped and sworn to avenge her lost friends. 
 
@@ -73,6 +92,7 @@ Then, a window of opportunity opened and she attempted an attack against the com
 Now she faces the same destiny as many exiles do…
 
 ## Tips
+[^](#table-of-content)
 
 Here I give some recommendations, not mandatory, it’s not perfect, it is how I played it.
 
