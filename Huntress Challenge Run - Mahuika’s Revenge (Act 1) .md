@@ -85,14 +85,16 @@ Here I give some recommendations, not mandatory, it’s not perfect, it is how I
 | G  | Rake    |
 | B  | Load Armour Piercing Rounds    |
 | N  | Crossbow Shoot    |
-|   |     |
 | SPACE  | Whirling Slash    |
+|   |     |
 |   |     |
 | Y | Life Pot     |
 | U    | Mana Pot    |
 |   |     |
-| U    | Inventory    |
-| U    | Skill Panel   |
+|   |     |
+| I    | Inventory    |
+| S    | Skill Panel   |
+|   |     |
 |   |     |
 | Mouse Left Click    | Walk   |
 | Mouse Right Click    | Parry   |
